@@ -27,7 +27,7 @@ The CNN model architecture used for this classification task is as follows:
 - Output Layer: 1 unit, Sigmoid activation
 
 ## Results
-- The model achieved an accuracy of X% on the test dataset.
+- The model achieved an accuracy of 80% on the test dataset.
 - Training and validation loss/accuracy curves are visualized in the notebook.
 
 ## Acknowledgments
